@@ -1,0 +1,19 @@
+
+Zuerst: Datei in RStudio laden: "data <- read.csv("rprog_data1.csv")
+
+Aufgabe 1:
+Eingabe data [1:2,]
+
+Aufgabe 2:
+Eingabe nrow(data)
+
+Aufgabe 3:
+Eingabe data [152:153,]
+
+Aufgabe 4: 
+Eingabe data [47,] 
+Der Wert von Ozone ist 21
+
+
+
+
